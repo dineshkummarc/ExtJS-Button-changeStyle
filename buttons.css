@@ -1,0 +1,37 @@
+/*!
+ * Ext JS Library 3.0.0
+ * Copyright(c) 2006-2009 Ext JS, LLC
+ * licensing@extjs.com
+ * http://www.extjs.com/license
+ */
+
+/*
+ * Modifications by Florian Cargoët
+ *   - use images from cachefly CDN
+ *
+ /
+.add {
+    background-image: url(http://extjs.cachefly.net/ext-3.0.0/examples/button/images/add.gif) !important;
+}
+.add16 {
+    background-image: url(http://extjs.cachefly.net/ext-3.0.0/examples/button/images/add16.gif) !important;
+}
+.add24 {
+    background-image: url(http://extjs.cachefly.net/ext-3.0.0/examples/button/images/add24.gif) !important;
+}
+
+.btn-panel td {
+    padding-left:5px;
+}
+
+h2 {
+    color:#083772 !important;
+    margin: 20px 0 0 !important;
+    padding: 5px;
+    background:#eee;
+    width:400px;
+}
+
+h3 {
+    font-weight:normal !important;
+}

@@ -1,0 +1,5 @@
+Ext.Button.changeStyle.override.js adds a "changeStyle" method to Ext.Button.
+
+changeStyle() allows you to change scale, iconAlign, iconCls, arrowAlign and cls after rendering.
+
+Open buttons.html to see the Ext.Button example page and click on a button to change its style.
